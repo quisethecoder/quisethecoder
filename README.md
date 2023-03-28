@@ -6,7 +6,7 @@ I'm a Web Developer!!
 
 👯 I’m looking to collaborate with others on Reactjs and JavaScript.
 
-🥅 2023 Goals: Focus on UI/UX design on the Frontend.
+🥅 2023 Goals: Continuing my growth as a Frontend Engineer.
 
 🤔 I’m looking forward to working with others and making beautiful projects.
 

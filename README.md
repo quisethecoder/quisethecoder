@@ -1,14 +1,12 @@
 Hello, I'm Marquise 👋
 
-I'm a Web Developer!!
+I'm a Software Engineer!!
 
-🌱 I’m currently working on more projects in the MERN stack to add to my repository.
+🌱 I’m currently working on learning Java.
 
-👯 I’m looking to collaborate with others on Reactjs and JavaScript.
+👯 I’m looking to collaborate with others to build Full Stack projects.
 
-🥅 2024 Goals: Continuing my growth as a Full Stack Engineer.
-
-🤔 I’m looking forward to working with others and making beautiful projects.
+🥅 2025 Goals: Continuing my growth as a Software Engineer.
 
 ⚡ Fun fact: I love sports and cooking.
 

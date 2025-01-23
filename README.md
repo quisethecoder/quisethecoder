@@ -1,8 +1,8 @@
 # Hi there, I’m Marquise Dawkins! 👋
 
-👨‍💻 **Software Engineer | Problem Solver | Lifelong Learner**
+👨‍💻**Software Engineer | Problem Solver | Lifelong Learner**
 
-🌟 **About Me:**
+🌟**About Me:**
 I’m a passionate Software Engineer with a growing skill set in Full Stack Development. I enjoy building creative and functional solutions that make an impact, and I’m currently diving deeper into **Java** to expand my backend expertise.
 
 🌱**What I’m Working On:**

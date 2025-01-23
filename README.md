@@ -1,17 +1,22 @@
-Hello, I'm Marquise 👋
+Hi there, I’m Marquise Dawkins! 👋
+👨‍💻 Software Engineer | Problem Solver | Lifelong Learner
 
-I'm a Software Engineer!!
+🌟 About Me:
+I’m a passionate Software Engineer with a growing skill set in Full Stack Development. I enjoy building creative and functional solutions that make an impact, and I’m currently diving deeper into Java to expand my backend expertise.
 
-🌱 I’m currently working on learning Java.
+🌱 What I’m Working On:
 
-👯 I’m looking to collaborate with others to build Full Stack projects.
+Mastering Java for backend development.
+Collaborating on Full Stack projects to create meaningful applications.
+Building a personal app for tracking colognes and perfumes.
+🎯 2025 Goals:
 
-🥅 2025 Goals: Continuing my growth as a Software Engineer.
+Continue growing as a Software Engineer by sharpening my technical skills and taking on new challenges.
+Contribute to open-source projects and collaborate with developers worldwide.
+⚡ Fun Facts:
 
-⚡ Fun fact: I love sports and cooking.
-
-Connect with me:
-https://www.linkedin.com/in/marquise-dawkins/
-
-
-
+I’m a big fan of sports and love trying out new recipes in the kitchen.
+Outside of coding, I enjoy exploring new technologies and finding creative ways to solve problems.
+📬 Let’s Connect:
+💼 LinkedIn
+🌐 Portfolio

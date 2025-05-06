@@ -18,7 +18,7 @@ I’m a passionate Software Engineer with a growing skill set in Full Stack Deve
 
 ⚡**Fun Facts:**
 - I’m a big fan of sports and love trying out new recipes in the kitchen.
-- Outside of coding, I enjoy exploring new technologies, and exercising.
+- Outside of coding I enjoy playing basketball, excercising, and playing video games.
 
 📬**Let’s Connect:**
 💼 LinkedIn

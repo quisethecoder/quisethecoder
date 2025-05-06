@@ -3,10 +3,11 @@
 👨‍💻**Software Engineer | Problem Solver | Lifelong Learner**
 
 🌟**About Me:**
-I’m a passionate Software Engineer with a growing skill set in Full Stack Development. I enjoy building creative and functional solutions that make an impact, and I’m currently diving deeper into **Java** to expand my backend expertise.
+I’m a passionate Software Engineer with a growing skill set in Full Stack Development. I enjoy building creative and functional solutions that make an impact.
 
 🌱**What I’m Working On:**
-- Mastering ***Java*** for backend development.
+- Continuing to master ***Java*** for backend development, ***HTML/CSS***, ***JavaScript***, and ***React.Js*** for frontend development.
+- Learning ***Python*** for fun.
 - Collaborating on Full Stack projects to create meaningful applications.
 - Building a **personal app**  for tracking colognes and perfumes.
 
@@ -16,7 +17,7 @@ I’m a passionate Software Engineer with a growing skill set in Full Stack Deve
 
 ⚡**Fun Facts:**
 - I’m a big fan of sports and love trying out new recipes in the kitchen.
-- Outside of coding, I enjoy exploring new technologies and finding creative ways to solve problems.
+- Outside of coding, I enjoy exploring new technologies, and exercising.
 
 📬**Let’s Connect:**
 💼 LinkedIn
